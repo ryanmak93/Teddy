@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 192f29c0aa8caf74c98eb13c77715862
+timeCreated: 1457676512
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: shadow_fiend_econ:Head0_JNT
+    100004: shadow_fiend_econ:Head1_JNT
+    100006: shadow_fiend_econ:LeftArm0_JNT
+    100008: shadow_fiend_econ:LeftArm1_JNT
+    100010: shadow_fiend_econ:LeftArm2_JNT
+    100012: shadow_fiend_econ:LeftArm3_JNT
+    100014: shadow_fiend_econ:LeftArm4_JNT
+    100016: shadow_fiend_econ:LeftDeltoid0_JNT
+    100018: shadow_fiend_econ:LeftDeltoid0_JNT_REF
+    100020: shadow_fiend_econ:LeftDeltoid0Ori_HM
+    100022: shadow_fiend_econ:LeftDeltoid0Ori_NUL
+    100024: shadow_fiend_econ:LeftDeltoid1_JNT
+    100026: shadow_fiend_econ:LeftDeltoidAim_HM
+    100028: shadow_fiend_econ:LeftDeltoidAim_NUL
+    100030: shadow_fiend_econ:LeftIndexFng0_JNT
+    100032: shadow_fiend_econ:LeftIndexFng1_JNT
+    100034: shadow_fiend_econ:LeftIndexFng2_JNT
+    100036: shadow_fiend_econ:LeftMidFng0_JNT
+    100038: shadow_fiend_econ:LeftMidFng1_JNT
+    100040: shadow_fiend_econ:LeftMidFng2_JNT
+    100042: shadow_fiend_econ:LeftPinky0_JNT
+    100044: shadow_fiend_econ:LeftPinky1_JNT
+    100046: shadow_fiend_econ:LeftPinky2_JNT
+    100048: shadow_fiend_econ:LeftScap0_JNT
+    100050: shadow_fiend_econ:LeftScap0Aim_HM
+    100052: shadow_fiend_econ:LeftScap0Aim_NUL
+    100054: shadow_fiend_econ:LeftScap0Ori_HM
+    100056: shadow_fiend_econ:LeftScap0Ori_NUL
+    100058: shadow_fiend_econ:LeftScap1_JNT
+    100060: shadow_fiend_econ:LeftScapAimTgt_NUL
+    100062: shadow_fiend_econ:LeftShoulderSpike0_JNT
+    100064: shadow_fiend_econ:LeftShoulderSpike1_JNT
+    100066: shadow_fiend_econ:LeftThumb0_JNT
+    100068: shadow_fiend_econ:LeftThumb1_JNT
+    100070: shadow_fiend_econ:LeftThumb2_JNT
+    100072: shadow_fiend_econ:LeftThumb3_JNT
+    100074: shadow_fiend_econ:LeftWing0_JNT
+    100076: shadow_fiend_econ:LeftWing1_JNT
+    100078: shadow_fiend_econ:LeftWing2_JNT
+    100080: shadow_fiend_econ:LeftWing3_JNT
+    100082: shadow_fiend_econ:LeftWingEnd_JNT
+    100084: shadow_fiend_econ:LeftWingTendrilA0_JNT
+    100086: shadow_fiend_econ:LeftWingTendrilA1_JNT
+    100088: shadow_fiend_econ:LeftWingTendrilAEnd_JNT
+    100090: shadow_fiend_econ:LeftWingTendrilB0_JNT
+    100092: shadow_fiend_econ:LeftWingTendrilB1_JNT
+    100094: shadow_fiend_econ:LeftWingTendrilBEnd_JNT
+    100096: shadow_fiend_econ:LeftWingTendrilC0_JNT
+    100098: shadow_fiend_econ:LeftWingTendrilC1_JNT
+    100100: shadow_fiend_econ:LeftWingTendrilCEnd_JNT
+    100102: shadow_fiend_econ:LeftWrist0_JNT
+    100104: shadow_fiend_econ:LeftWrist0Ori_HM
+    100106: shadow_fiend_econ:LeftWrist0Ori_NUL
+    100108: shadow_fiend_econ:LeftWrist1_JNT
+    100110: shadow_fiend_econ:LeftWristAim_HM
+    100112: shadow_fiend_econ:LeftWristAim_NUL
+    100114: shadow_fiend_econ:Neck0_JNT
+    100116: shadow_fiend_econ:RightArm0_JNT
+    100118: shadow_fiend_econ:RightArm1_JNT
+    100120: shadow_fiend_econ:RightArm2_JNT
+    100122: shadow_fiend_econ:RightArm3_JNT
+    100124: shadow_fiend_econ:RightArm4_JNT
+    100126: shadow_fiend_econ:RightDeltoid0_JNT
+    100128: shadow_fiend_econ:RightDeltoid0Aim_HM
+    100130: shadow_fiend_econ:RightDeltoid0Aim_NUL
+    100132: shadow_fiend_econ:RightDeltoid0Ori_HM
+    100134: shadow_fiend_econ:RightDeltoid0Ori_NUL
+    100136: shadow_fiend_econ:RightDeltoid1_JNT
+    100138: shadow_fiend_econ:RightIndexFng0_JNT
+    100140: shadow_fiend_econ:RightIndexFng1_JNT
+    100142: shadow_fiend_econ:RightIndexFng2_JNT
+    100144: shadow_fiend_econ:RightMidFng0_JNT
+    100146: shadow_fiend_econ:RightMidFng1_JNT
+    100148: shadow_fiend_econ:RightMidFng2_JNT
+    100150: shadow_fiend_econ:RightPinky0_JNT
+    100152: shadow_fiend_econ:RightPinky1_JNT
+    100154: shadow_fiend_econ:RightPinky2_JNT
+    100156: shadow_fiend_econ:RightScap0_JNT
+    100158: shadow_fiend_econ:RightScap0Ori_HM
+    100160: shadow_fiend_econ:RightScap0Ori_NUL
+    100162: shadow_fiend_econ:RightScap1_JNT
+    100164: shadow_fiend_econ:RightScapAim_HM
+    100166: shadow_fiend_econ:RightScapAim_NUL
+    100168: shadow_fiend_econ:RightScapAimTgt_NUL
+    100170: shadow_fiend_econ:RightShoulderSpike0_JNT
+    100172: shadow_fiend_econ:RightShoulderSpike1_JNT
+    100174: shadow_fiend_econ:RightThumb0_JNT
+    100176: shadow_fiend_econ:RightThumb1_JNT
+    100178: shadow_fiend_econ:RightThumb2_JNT
+    100180: shadow_fiend_econ:RightThumb3_JNT
+    100182: shadow_fiend_econ:RightWing0_JNT
+    100184: shadow_fiend_econ:RightWing1_JNT
+    100186: shadow_fiend_econ:RightWing2_JNT
+    100188: shadow_fiend_econ:RightWing3_JNT
+    100190: shadow_fiend_econ:RightWingEnd_JNT
+    100192: shadow_fiend_econ:RightWingTendrilA0_JNT
+    100194: shadow_fiend_econ:RightWingTendrilA1_JNT
+    100196: shadow_fiend_econ:RightWingTendrilAEnd_JNT
+    100198: shadow_fiend_econ:RightWingTendrilB0_JNT
+    100200: shadow_fiend_econ:RightWingTendrilB1_JNT
+    100202: shadow_fiend_econ:RightWingTendrilBEnd_JNT
+    100204: shadow_fiend_econ:RightWingTendrilC0_JNT
+    100206: shadow_fiend_econ:RightWingTendrilC1_JNT
+    100208: shadow_fiend_econ:RightWingTendrilCEnd_JNT
+    100210: shadow_fiend_econ:RightWrist0_JNT
+    100212: shadow_fiend_econ:RightWrist0Ori_HM
+    100214: shadow_fiend_econ:RightWrist0Ori_NUL
+    100216: shadow_fiend_econ:RightWrist1_JNT
+    100218: shadow_fiend_econ:RightWristAim_HM
+    100220: shadow_fiend_econ:RightWristAim_NUL
+    100222: shadow_fiend_econ:RockA0_JNT
+    100224: shadow_fiend_econ:RockA1_JNT
+    100226: shadow_fiend_econ:RockB0_JNT
+    100228: shadow_fiend_econ:RockB1_JNT
+    100230: shadow_fiend_econ:RockC0_JNT
+    100232: shadow_fiend_econ:RockC1_JNT
+    100234: shadow_fiend_econ:RockD0_JNT
+    100236: shadow_fiend_econ:RockD1_JNT
+    100238: shadow_fiend_econ:RockE0_JNT
+    100240: shadow_fiend_econ:RockE1_JNT
+    100242: shadow_fiend_econ:Root0_JNT
+    100244: shadow_fiend_econ:shadow_fiend
+    100246: shadow_fiend_econ:shadow_fiend_arms
+    100248: shadow_fiend_econ:shadow_fiend_head
+    100250: shadow_fiend_econ:shadow_fiend_shoulders
+    100252: shadow_fiend_econ:shadow_fiend_wings
+    100254: shadow_fiend_econ:Spine0_JNT
+    100256: shadow_fiend_econ:Spine1_JNT
+    100258: shadow_fiend_econ:Spine2_JNT
+    100260: shadow_fiend_econ:Spine3_JNT
+    100262: shadow_fiend_econ:Tail0_JNT
+    100264: shadow_fiend_econ:Tail1_JNT
+    100266: shadow_fiend_econ:Tail2_JNT
+    100268: shadow_fiend_econ:Tail3_JNT
+    400000: //RootNode
+    400002: shadow_fiend_econ:Head0_JNT
+    400004: shadow_fiend_econ:Head1_JNT
+    400006: shadow_fiend_econ:LeftArm0_JNT
+    400008: shadow_fiend_econ:LeftArm1_JNT
+    400010: shadow_fiend_econ:LeftArm2_JNT
+    400012: shadow_fiend_econ:LeftArm3_JNT
+    400014: shadow_fiend_econ:LeftArm4_JNT
+    400016: shadow_fiend_econ:LeftDeltoid0_JNT
+    400018: shadow_fiend_econ:LeftDeltoid0_JNT_REF
+    400020: shadow_fiend_econ:LeftDeltoid0Ori_HM
+    400022: shadow_fiend_econ:LeftDeltoid0Ori_NUL
+    400024: shadow_fiend_econ:LeftDeltoid1_JNT
+    400026: shadow_fiend_econ:LeftDeltoidAim_HM
+    400028: shadow_fiend_econ:LeftDeltoidAim_NUL
+    400030: shadow_fiend_econ:LeftIndexFng0_JNT
+    400032: shadow_fiend_econ:LeftIndexFng1_JNT
+    400034: shadow_fiend_econ:LeftIndexFng2_JNT
+    400036: shadow_fiend_econ:LeftMidFng0_JNT
+    400038: shadow_fiend_econ:LeftMidFng1_JNT
+    400040: shadow_fiend_econ:LeftMidFng2_JNT
+    400042: shadow_fiend_econ:LeftPinky0_JNT
+    400044: shadow_fiend_econ:LeftPinky1_JNT
+    400046: shadow_fiend_econ:LeftPinky2_JNT
+    400048: shadow_fiend_econ:LeftScap0_JNT
+    400050: shadow_fiend_econ:LeftScap0Aim_HM
+    400052: shadow_fiend_econ:LeftScap0Aim_NUL
+    400054: shadow_fiend_econ:LeftScap0Ori_HM
+    400056: shadow_fiend_econ:LeftScap0Ori_NUL
+    400058: shadow_fiend_econ:LeftScap1_JNT
+    400060: shadow_fiend_econ:LeftScapAimTgt_NUL
+    400062: shadow_fiend_econ:LeftShoulderSpike0_JNT
+    400064: shadow_fiend_econ:LeftShoulderSpike1_JNT
+    400066: shadow_fiend_econ:LeftThumb0_JNT
+    400068: shadow_fiend_econ:LeftThumb1_JNT
+    400070: shadow_fiend_econ:LeftThumb2_JNT
+    400072: shadow_fiend_econ:LeftThumb3_JNT
+    400074: shadow_fiend_econ:LeftWing0_JNT
+    400076: shadow_fiend_econ:LeftWing1_JNT
+    400078: shadow_fiend_econ:LeftWing2_JNT
+    400080: shadow_fiend_econ:LeftWing3_JNT
+    400082: shadow_fiend_econ:LeftWingEnd_JNT
+    400084: shadow_fiend_econ:LeftWingTendrilA0_JNT
+    400086: shadow_fiend_econ:LeftWingTendrilA1_JNT
+    400088: shadow_fiend_econ:LeftWingTendrilAEnd_JNT
+    400090: shadow_fiend_econ:LeftWingTendrilB0_JNT
+    400092: shadow_fiend_econ:LeftWingTendrilB1_JNT
+    400094: shadow_fiend_econ:LeftWingTendrilBEnd_JNT
+    400096: shadow_fiend_econ:LeftWingTendrilC0_JNT
+    400098: shadow_fiend_econ:LeftWingTendrilC1_JNT
+    400100: shadow_fiend_econ:LeftWingTendrilCEnd_JNT
+    400102: shadow_fiend_econ:LeftWrist0_JNT
+    400104: shadow_fiend_econ:LeftWrist0Ori_HM
+    400106: shadow_fiend_econ:LeftWrist0Ori_NUL
+    400108: shadow_fiend_econ:LeftWrist1_JNT
+    400110: shadow_fiend_econ:LeftWristAim_HM
+    400112: shadow_fiend_econ:LeftWristAim_NUL
+    400114: shadow_fiend_econ:Neck0_JNT
+    400116: shadow_fiend_econ:RightArm0_JNT
+    400118: shadow_fiend_econ:RightArm1_JNT
+    400120: shadow_fiend_econ:RightArm2_JNT
+    400122: shadow_fiend_econ:RightArm3_JNT
+    400124: shadow_fiend_econ:RightArm4_JNT
+    400126: shadow_fiend_econ:RightDeltoid0_JNT
+    400128: shadow_fiend_econ:RightDeltoid0Aim_HM
+    400130: shadow_fiend_econ:RightDeltoid0Aim_NUL
+    400132: shadow_fiend_econ:RightDeltoid0Ori_HM
+    400134: shadow_fiend_econ:RightDeltoid0Ori_NUL
+    400136: shadow_fiend_econ:RightDeltoid1_JNT
+    400138: shadow_fiend_econ:RightIndexFng0_JNT
+    400140: shadow_fiend_econ:RightIndexFng1_JNT
+    400142: shadow_fiend_econ:RightIndexFng2_JNT
+    400144: shadow_fiend_econ:RightMidFng0_JNT
+    400146: shadow_fiend_econ:RightMidFng1_JNT
+    400148: shadow_fiend_econ:RightMidFng2_JNT
+    400150: shadow_fiend_econ:RightPinky0_JNT
+    400152: shadow_fiend_econ:RightPinky1_JNT
+    400154: shadow_fiend_econ:RightPinky2_JNT
+    400156: shadow_fiend_econ:RightScap0_JNT
+    400158: shadow_fiend_econ:RightScap0Ori_HM
+    400160: shadow_fiend_econ:RightScap0Ori_NUL
+    400162: shadow_fiend_econ:RightScap1_JNT
+    400164: shadow_fiend_econ:RightScapAim_HM
+    400166: shadow_fiend_econ:RightScapAim_NUL
+    400168: shadow_fiend_econ:RightScapAimTgt_NUL
+    400170: shadow_fiend_econ:RightShoulderSpike0_JNT
+    400172: shadow_fiend_econ:RightShoulderSpike1_JNT
+    400174: shadow_fiend_econ:RightThumb0_JNT
+    400176: shadow_fiend_econ:RightThumb1_JNT
+    400178: shadow_fiend_econ:RightThumb2_JNT
+    400180: shadow_fiend_econ:RightThumb3_JNT
+    400182: shadow_fiend_econ:RightWing0_JNT
+    400184: shadow_fiend_econ:RightWing1_JNT
+    400186: shadow_fiend_econ:RightWing2_JNT
+    400188: shadow_fiend_econ:RightWing3_JNT
+    400190: shadow_fiend_econ:RightWingEnd_JNT
+    400192: shadow_fiend_econ:RightWingTendrilA0_JNT
+    400194: shadow_fiend_econ:RightWingTendrilA1_JNT
+    400196: shadow_fiend_econ:RightWingTendrilAEnd_JNT
+    400198: shadow_fiend_econ:RightWingTendrilB0_JNT
+    400200: shadow_fiend_econ:RightWingTendrilB1_JNT
+    400202: shadow_fiend_econ:RightWingTendrilBEnd_JNT
+    400204: shadow_fiend_econ:RightWingTendrilC0_JNT
+    400206: shadow_fiend_econ:RightWingTendrilC1_JNT
+    400208: shadow_fiend_econ:RightWingTendrilCEnd_JNT
+    400210: shadow_fiend_econ:RightWrist0_JNT
+    400212: shadow_fiend_econ:RightWrist0Ori_HM
+    400214: shadow_fiend_econ:RightWrist0Ori_NUL
+    400216: shadow_fiend_econ:RightWrist1_JNT
+    400218: shadow_fiend_econ:RightWristAim_HM
+    400220: shadow_fiend_econ:RightWristAim_NUL
+    400222: shadow_fiend_econ:RockA0_JNT
+    400224: shadow_fiend_econ:RockA1_JNT
+    400226: shadow_fiend_econ:RockB0_JNT
+    400228: shadow_fiend_econ:RockB1_JNT
+    400230: shadow_fiend_econ:RockC0_JNT
+    400232: shadow_fiend_econ:RockC1_JNT
+    400234: shadow_fiend_econ:RockD0_JNT
+    400236: shadow_fiend_econ:RockD1_JNT
+    400238: shadow_fiend_econ:RockE0_JNT
+    400240: shadow_fiend_econ:RockE1_JNT
+    400242: shadow_fiend_econ:Root0_JNT
+    400244: shadow_fiend_econ:shadow_fiend
+    400246: shadow_fiend_econ:shadow_fiend_arms
+    400248: shadow_fiend_econ:shadow_fiend_head
+    400250: shadow_fiend_econ:shadow_fiend_shoulders
+    400252: shadow_fiend_econ:shadow_fiend_wings
+    400254: shadow_fiend_econ:Spine0_JNT
+    400256: shadow_fiend_econ:Spine1_JNT
+    400258: shadow_fiend_econ:Spine2_JNT
+    400260: shadow_fiend_econ:Spine3_JNT
+    400262: shadow_fiend_econ:Tail0_JNT
+    400264: shadow_fiend_econ:Tail1_JNT
+    400266: shadow_fiend_econ:Tail2_JNT
+    400268: shadow_fiend_econ:Tail3_JNT
+    4300000: shadow_fiend_econ:shadow_fiend
+    4300002: shadow_fiend_econ:shadow_fiend_arms
+    4300004: shadow_fiend_econ:shadow_fiend_head
+    4300006: shadow_fiend_econ:shadow_fiend_shoulders
+    4300008: shadow_fiend_econ:shadow_fiend_wings
+    7400000: Attack
+    7400002: Die
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: shadow_fiend_econ:shadow_fiend
+    13700002: shadow_fiend_econ:shadow_fiend_arms
+    13700004: shadow_fiend_econ:shadow_fiend_head
+    13700006: shadow_fiend_econ:shadow_fiend_shoulders
+    13700008: shadow_fiend_econ:shadow_fiend_wings
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockA0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockA0_JNT/shadow_fiend_econ:RockA1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockB0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockB0_JNT/shadow_fiend_econ:RockB1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockC0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockC0_JNT/shadow_fiend_econ:RockC1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockD0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockD0_JNT/shadow_fiend_econ:RockD1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockE0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockE0_JNT/shadow_fiend_econ:RockE1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftArm4_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftIndexFng0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftIndexFng0_JNT/shadow_fiend_econ:LeftIndexFng1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftIndexFng0_JNT/shadow_fiend_econ:LeftIndexFng1_JNT/shadow_fiend_econ:LeftIndexFng2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftMidFng0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftMidFng0_JNT/shadow_fiend_econ:LeftMidFng1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftMidFng0_JNT/shadow_fiend_econ:LeftMidFng1_JNT/shadow_fiend_econ:LeftMidFng2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftPinky0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftPinky0_JNT/shadow_fiend_econ:LeftPinky1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftPinky0_JNT/shadow_fiend_econ:LeftPinky1_JNT/shadow_fiend_econ:LeftPinky2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftThumb0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftThumb0_JNT/shadow_fiend_econ:LeftThumb1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftThumb0_JNT/shadow_fiend_econ:LeftThumb1_JNT/shadow_fiend_econ:LeftThumb2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftThumb0_JNT/shadow_fiend_econ:LeftThumb1_JNT/shadow_fiend_econ:LeftThumb2_JNT/shadow_fiend_econ:LeftThumb3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftWristAim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftWristAim_HM/shadow_fiend_econ:LeftWristAim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftWristAim_HM/shadow_fiend_econ:LeftWristAim_NUL/shadow_fiend_econ:LeftWrist0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftWristAim_HM/shadow_fiend_econ:LeftWristAim_NUL/shadow_fiend_econ:LeftWrist0Ori_HM/shadow_fiend_econ:LeftWrist0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftWrist0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftWrist0_JNT/shadow_fiend_econ:LeftWrist1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoid0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoid0_JNT/shadow_fiend_econ:LeftDeltoid0_JNT_REF
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoid0_JNT/shadow_fiend_econ:LeftDeltoid1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoidAim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoidAim_HM/shadow_fiend_econ:LeftDeltoidAim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoidAim_HM/shadow_fiend_econ:LeftDeltoidAim_NUL/shadow_fiend_econ:LeftDeltoid0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoidAim_HM/shadow_fiend_econ:LeftDeltoidAim_NUL/shadow_fiend_econ:LeftDeltoid0Ori_HM/shadow_fiend_econ:LeftDeltoid0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0_JNT/shadow_fiend_econ:LeftScap1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0Aim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0Aim_HM/shadow_fiend_econ:LeftScap0Aim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0Aim_HM/shadow_fiend_econ:LeftScap0Aim_NUL/shadow_fiend_econ:LeftScap0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0Aim_HM/shadow_fiend_econ:LeftScap0Aim_NUL/shadow_fiend_econ:LeftScap0Ori_HM/shadow_fiend_econ:LeftScap0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftShoulderSpike0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftShoulderSpike0_JNT/shadow_fiend_econ:LeftShoulderSpike1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftScapAimTgt_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilA0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilA0_JNT/shadow_fiend_econ:LeftWingTendrilA1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilA0_JNT/shadow_fiend_econ:LeftWingTendrilA1_JNT/shadow_fiend_econ:LeftWingTendrilAEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilB0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilB0_JNT/shadow_fiend_econ:LeftWingTendrilB1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilB0_JNT/shadow_fiend_econ:LeftWingTendrilB1_JNT/shadow_fiend_econ:LeftWingTendrilBEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWingTendrilC0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWingTendrilC0_JNT/shadow_fiend_econ:LeftWingTendrilC1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWingTendrilC0_JNT/shadow_fiend_econ:LeftWingTendrilC1_JNT/shadow_fiend_econ:LeftWingTendrilCEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightArm4_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightIndexFng0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightIndexFng0_JNT/shadow_fiend_econ:RightIndexFng1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightIndexFng0_JNT/shadow_fiend_econ:RightIndexFng1_JNT/shadow_fiend_econ:RightIndexFng2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightMidFng0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightMidFng0_JNT/shadow_fiend_econ:RightMidFng1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightMidFng0_JNT/shadow_fiend_econ:RightMidFng1_JNT/shadow_fiend_econ:RightMidFng2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightPinky0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightPinky0_JNT/shadow_fiend_econ:RightPinky1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightPinky0_JNT/shadow_fiend_econ:RightPinky1_JNT/shadow_fiend_econ:RightPinky2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightThumb0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightThumb0_JNT/shadow_fiend_econ:RightThumb1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightThumb0_JNT/shadow_fiend_econ:RightThumb1_JNT/shadow_fiend_econ:RightThumb2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightThumb0_JNT/shadow_fiend_econ:RightThumb1_JNT/shadow_fiend_econ:RightThumb2_JNT/shadow_fiend_econ:RightThumb3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightWristAim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightWristAim_HM/shadow_fiend_econ:RightWristAim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightWristAim_HM/shadow_fiend_econ:RightWristAim_NUL/shadow_fiend_econ:RightWrist0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightWristAim_HM/shadow_fiend_econ:RightWristAim_NUL/shadow_fiend_econ:RightWrist0Ori_HM/shadow_fiend_econ:RightWrist0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightWrist0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightWrist0_JNT/shadow_fiend_econ:RightWrist1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0_JNT/shadow_fiend_econ:RightDeltoid1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0Aim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0Aim_HM/shadow_fiend_econ:RightDeltoid0Aim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0Aim_HM/shadow_fiend_econ:RightDeltoid0Aim_NUL/shadow_fiend_econ:RightDeltoid0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0Aim_HM/shadow_fiend_econ:RightDeltoid0Aim_NUL/shadow_fiend_econ:RightDeltoid0Ori_HM/shadow_fiend_econ:RightDeltoid0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScap0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScap0_JNT/shadow_fiend_econ:RightScap1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScapAim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScapAim_HM/shadow_fiend_econ:RightScapAim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScapAim_HM/shadow_fiend_econ:RightScapAim_NUL/shadow_fiend_econ:RightScap0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScapAim_HM/shadow_fiend_econ:RightScapAim_NUL/shadow_fiend_econ:RightScap0Ori_HM/shadow_fiend_econ:RightScap0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightShoulderSpike0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightShoulderSpike0_JNT/shadow_fiend_econ:RightShoulderSpike1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightScapAimTgt_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilA0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilA0_JNT/shadow_fiend_econ:RightWingTendrilA1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilA0_JNT/shadow_fiend_econ:RightWingTendrilA1_JNT/shadow_fiend_econ:RightWingTendrilAEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilB0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilB0_JNT/shadow_fiend_econ:RightWingTendrilB1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilB0_JNT/shadow_fiend_econ:RightWingTendrilB1_JNT/shadow_fiend_econ:RightWingTendrilBEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWingTendrilC0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWingTendrilC0_JNT/shadow_fiend_econ:RightWingTendrilC1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWingTendrilC0_JNT/shadow_fiend_econ:RightWingTendrilC1_JNT/shadow_fiend_econ:RightWingTendrilCEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:Spine3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:Spine3_JNT/shadow_fiend_econ:Neck0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:Spine3_JNT/shadow_fiend_econ:Neck0_JNT/shadow_fiend_econ:Head0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:Spine3_JNT/shadow_fiend_econ:Neck0_JNT/shadow_fiend_econ:Head0_JNT/shadow_fiend_econ:Head1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Tail0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Tail0_JNT/shadow_fiend_econ:Tail1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Tail0_JNT/shadow_fiend_econ:Tail1_JNT/shadow_fiend_econ:Tail2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Tail0_JNT/shadow_fiend_econ:Tail1_JNT/shadow_fiend_econ:Tail2_JNT/shadow_fiend_econ:Tail3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend_arms
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend_head
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend_shoulders
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend_wings
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockA0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockA0_JNT/shadow_fiend_econ:RockA1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockB0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockB0_JNT/shadow_fiend_econ:RockB1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockC0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockC0_JNT/shadow_fiend_econ:RockC1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockD0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockD0_JNT/shadow_fiend_econ:RockD1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockE0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:RockE0_JNT/shadow_fiend_econ:RockE1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftArm4_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftIndexFng0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftIndexFng0_JNT/shadow_fiend_econ:LeftIndexFng1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftIndexFng0_JNT/shadow_fiend_econ:LeftIndexFng1_JNT/shadow_fiend_econ:LeftIndexFng2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftMidFng0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftMidFng0_JNT/shadow_fiend_econ:LeftMidFng1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftMidFng0_JNT/shadow_fiend_econ:LeftMidFng1_JNT/shadow_fiend_econ:LeftMidFng2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftPinky0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftPinky0_JNT/shadow_fiend_econ:LeftPinky1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftPinky0_JNT/shadow_fiend_econ:LeftPinky1_JNT/shadow_fiend_econ:LeftPinky2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftThumb0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftThumb0_JNT/shadow_fiend_econ:LeftThumb1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftThumb0_JNT/shadow_fiend_econ:LeftThumb1_JNT/shadow_fiend_econ:LeftThumb2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftThumb0_JNT/shadow_fiend_econ:LeftThumb1_JNT/shadow_fiend_econ:LeftThumb2_JNT/shadow_fiend_econ:LeftThumb3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftWristAim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftWristAim_HM/shadow_fiend_econ:LeftWristAim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftWristAim_HM/shadow_fiend_econ:LeftWristAim_NUL/shadow_fiend_econ:LeftWrist0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftArm3_JNT/shadow_fiend_econ:LeftWristAim_HM/shadow_fiend_econ:LeftWristAim_NUL/shadow_fiend_econ:LeftWrist0Ori_HM/shadow_fiend_econ:LeftWrist0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftWrist0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftArm1_JNT/shadow_fiend_econ:LeftArm2_JNT/shadow_fiend_econ:LeftWrist0_JNT/shadow_fiend_econ:LeftWrist1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoid0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoid0_JNT/shadow_fiend_econ:LeftDeltoid0_JNT_REF
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoid0_JNT/shadow_fiend_econ:LeftDeltoid1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoidAim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoidAim_HM/shadow_fiend_econ:LeftDeltoidAim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoidAim_HM/shadow_fiend_econ:LeftDeltoidAim_NUL/shadow_fiend_econ:LeftDeltoid0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftDeltoidAim_HM/shadow_fiend_econ:LeftDeltoidAim_NUL/shadow_fiend_econ:LeftDeltoid0Ori_HM/shadow_fiend_econ:LeftDeltoid0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0_JNT/shadow_fiend_econ:LeftScap1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0Aim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0Aim_HM/shadow_fiend_econ:LeftScap0Aim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0Aim_HM/shadow_fiend_econ:LeftScap0Aim_NUL/shadow_fiend_econ:LeftScap0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftScap0Aim_HM/shadow_fiend_econ:LeftScap0Aim_NUL/shadow_fiend_econ:LeftScap0Ori_HM/shadow_fiend_econ:LeftScap0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftShoulderSpike0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftArm0_JNT/shadow_fiend_econ:LeftShoulderSpike0_JNT/shadow_fiend_econ:LeftShoulderSpike1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftScapAimTgt_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilA0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilA0_JNT/shadow_fiend_econ:LeftWingTendrilA1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilA0_JNT/shadow_fiend_econ:LeftWingTendrilA1_JNT/shadow_fiend_econ:LeftWingTendrilAEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilB0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilB0_JNT/shadow_fiend_econ:LeftWingTendrilB1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWing3_JNT/shadow_fiend_econ:LeftWingTendrilB0_JNT/shadow_fiend_econ:LeftWingTendrilB1_JNT/shadow_fiend_econ:LeftWingTendrilBEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWingTendrilC0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWingTendrilC0_JNT/shadow_fiend_econ:LeftWingTendrilC1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:LeftWing0_JNT/shadow_fiend_econ:LeftWing1_JNT/shadow_fiend_econ:LeftWing2_JNT/shadow_fiend_econ:LeftWingTendrilC0_JNT/shadow_fiend_econ:LeftWingTendrilC1_JNT/shadow_fiend_econ:LeftWingTendrilCEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightArm4_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightIndexFng0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightIndexFng0_JNT/shadow_fiend_econ:RightIndexFng1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightIndexFng0_JNT/shadow_fiend_econ:RightIndexFng1_JNT/shadow_fiend_econ:RightIndexFng2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightMidFng0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightMidFng0_JNT/shadow_fiend_econ:RightMidFng1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightMidFng0_JNT/shadow_fiend_econ:RightMidFng1_JNT/shadow_fiend_econ:RightMidFng2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightPinky0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightPinky0_JNT/shadow_fiend_econ:RightPinky1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightPinky0_JNT/shadow_fiend_econ:RightPinky1_JNT/shadow_fiend_econ:RightPinky2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightThumb0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightThumb0_JNT/shadow_fiend_econ:RightThumb1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightThumb0_JNT/shadow_fiend_econ:RightThumb1_JNT/shadow_fiend_econ:RightThumb2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightThumb0_JNT/shadow_fiend_econ:RightThumb1_JNT/shadow_fiend_econ:RightThumb2_JNT/shadow_fiend_econ:RightThumb3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightWristAim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightWristAim_HM/shadow_fiend_econ:RightWristAim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightWristAim_HM/shadow_fiend_econ:RightWristAim_NUL/shadow_fiend_econ:RightWrist0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightArm3_JNT/shadow_fiend_econ:RightWristAim_HM/shadow_fiend_econ:RightWristAim_NUL/shadow_fiend_econ:RightWrist0Ori_HM/shadow_fiend_econ:RightWrist0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightWrist0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightArm1_JNT/shadow_fiend_econ:RightArm2_JNT/shadow_fiend_econ:RightWrist0_JNT/shadow_fiend_econ:RightWrist1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0_JNT/shadow_fiend_econ:RightDeltoid1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0Aim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0Aim_HM/shadow_fiend_econ:RightDeltoid0Aim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0Aim_HM/shadow_fiend_econ:RightDeltoid0Aim_NUL/shadow_fiend_econ:RightDeltoid0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightDeltoid0Aim_HM/shadow_fiend_econ:RightDeltoid0Aim_NUL/shadow_fiend_econ:RightDeltoid0Ori_HM/shadow_fiend_econ:RightDeltoid0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScap0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScap0_JNT/shadow_fiend_econ:RightScap1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScapAim_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScapAim_HM/shadow_fiend_econ:RightScapAim_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScapAim_HM/shadow_fiend_econ:RightScapAim_NUL/shadow_fiend_econ:RightScap0Ori_HM
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightScapAim_HM/shadow_fiend_econ:RightScapAim_NUL/shadow_fiend_econ:RightScap0Ori_HM/shadow_fiend_econ:RightScap0Ori_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightShoulderSpike0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightArm0_JNT/shadow_fiend_econ:RightShoulderSpike0_JNT/shadow_fiend_econ:RightShoulderSpike1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightScapAimTgt_NUL
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilA0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilA0_JNT/shadow_fiend_econ:RightWingTendrilA1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilA0_JNT/shadow_fiend_econ:RightWingTendrilA1_JNT/shadow_fiend_econ:RightWingTendrilAEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilB0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilB0_JNT/shadow_fiend_econ:RightWingTendrilB1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWing3_JNT/shadow_fiend_econ:RightWingTendrilB0_JNT/shadow_fiend_econ:RightWingTendrilB1_JNT/shadow_fiend_econ:RightWingTendrilBEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWingTendrilC0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWingTendrilC0_JNT/shadow_fiend_econ:RightWingTendrilC1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:RightWing0_JNT/shadow_fiend_econ:RightWing1_JNT/shadow_fiend_econ:RightWing2_JNT/shadow_fiend_econ:RightWingTendrilC0_JNT/shadow_fiend_econ:RightWingTendrilC1_JNT/shadow_fiend_econ:RightWingTendrilCEnd_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:Spine3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:Spine3_JNT/shadow_fiend_econ:Neck0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:Spine3_JNT/shadow_fiend_econ:Neck0_JNT/shadow_fiend_econ:Head0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Spine0_JNT/shadow_fiend_econ:Spine1_JNT/shadow_fiend_econ:Spine2_JNT/shadow_fiend_econ:Spine3_JNT/shadow_fiend_econ:Neck0_JNT/shadow_fiend_econ:Head0_JNT/shadow_fiend_econ:Head1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Tail0_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Tail0_JNT/shadow_fiend_econ:Tail1_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Tail0_JNT/shadow_fiend_econ:Tail1_JNT/shadow_fiend_econ:Tail2_JNT
+        weight: 1
+      - path: shadow_fiend_econ:Root0_JNT/shadow_fiend_econ:Tail0_JNT/shadow_fiend_econ:Tail1_JNT/shadow_fiend_econ:Tail2_JNT/shadow_fiend_econ:Tail3_JNT
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend_arms
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend_head
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend_shoulders
+        weight: 1
+      - path: shadow_fiend_econ:shadow_fiend_wings
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

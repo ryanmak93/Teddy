@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: 0b9b6e7794952c240974ad0c621cadf1
+timeCreated: 1458886302
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: dirge:joint1
+    100004: dirge:undying_econ:ankle_L
+    100006: dirge:undying_econ:ankle_L_loc
+    100008: dirge:undying_econ:ankle_R
+    100010: dirge:undying_econ:back_cloth_R0C0
+    100012: dirge:undying_econ:back_cloth_R1C0
+    100014: dirge:undying_econ:back_cloth_R2C0
+    100016: dirge:undying_econ:back_cloth_R3C0
+    100018: dirge:undying_econ:back_cloth_R4C0
+    100020: dirge:undying_econ:bicep_L
+    100022: dirge:undying_econ:bicep_R
+    100024: dirge:undying_econ:clavicle_L
+    100026: dirge:undying_econ:clavicle_R
+    100028: dirge:undying_econ:elbow_L
+    100030: dirge:undying_econ:elbow_R
+    100032: dirge:undying_econ:elbowHelper_L
+    100034: dirge:undying_econ:elbowHelper_R
+    100036: dirge:undying_econ:fr_cloth_R0C0
+    100038: dirge:undying_econ:fr_cloth_R1C0
+    100040: dirge:undying_econ:fr_cloth_R2C0
+    100042: dirge:undying_econ:fr_cloth_R3C0
+    100044: dirge:undying_econ:head
+    100046: dirge:undying_econ:hip1_0
+    100048: dirge:undying_econ:Index_0_L
+    100050: dirge:undying_econ:Index_0_R
+    100052: dirge:undying_econ:Index_1_L
+    100054: dirge:undying_econ:Index_1_R
+    100056: dirge:undying_econ:Index_2_L
+    100058: dirge:undying_econ:Index_2_R
+    100060: dirge:undying_econ:jaw_01
+    100062: dirge:undying_econ:jaw_02
+    100064: dirge:undying_econ:knee_L
+    100066: dirge:undying_econ:knee_L_loc
+    100068: dirge:undying_econ:knee_R
+    100070: dirge:undying_econ:Mid_0_L
+    100072: dirge:undying_econ:Mid_0_R
+    100074: dirge:undying_econ:Mid_1_L
+    100076: dirge:undying_econ:Mid_1_R
+    100078: dirge:undying_econ:Mid_2_L
+    100080: dirge:undying_econ:Mid_2_R
+    100082: dirge:undying_econ:neck1
+    100084: dirge:undying_econ:root
+    100086: dirge:undying_econ:sh_pad0_0_L
+    100088: dirge:undying_econ:sh_pad0_1_L
+    100090: dirge:undying_econ:sh_pad1_0_R
+    100092: dirge:undying_econ:sh_pad1_1_R
+    100094: dirge:undying_econ:spine1
+    100096: dirge:undying_econ:spine2
+    100098: dirge:undying_econ:thigh_L
+    100100: dirge:undying_econ:thigh_R
+    100102: dirge:undying_econ:Thumb_0_L
+    100104: dirge:undying_econ:Thumb_0_R
+    100106: dirge:undying_econ:Thumb_1_L
+    100108: dirge:undying_econ:Thumb_1_R
+    100110: dirge:undying_econ:Thumb_2_L
+    100112: dirge:undying_econ:Thumb_2_R
+    100114: dirge:undying_econ:toeBase_L
+    100116: dirge:undying_econ:toeBase_L_loc
+    100118: dirge:undying_econ:toeBase_R
+    100120: dirge:undying_econ:undying_armor
+    100122: dirge:undying_econ:undying_armor_knee
+    100124: dirge:undying_econ:undying_armor_lod1
+    100126: dirge:undying_econ:undying_base
+    100128: dirge:undying_econ:undying_base_back_cloth
+    100130: dirge:undying_econ:undying_base_front_cloth
+    100132: dirge:undying_econ:undying_base_lod2
+    100134: dirge:undying_econ:undying_helmet
+    100136: dirge:undying_econ:wrist_L
+    100138: dirge:undying_econ:wrist_R
+    400000: //RootNode
+    400002: dirge:joint1
+    400004: dirge:undying_econ:ankle_L
+    400006: dirge:undying_econ:ankle_L_loc
+    400008: dirge:undying_econ:ankle_R
+    400010: dirge:undying_econ:back_cloth_R0C0
+    400012: dirge:undying_econ:back_cloth_R1C0
+    400014: dirge:undying_econ:back_cloth_R2C0
+    400016: dirge:undying_econ:back_cloth_R3C0
+    400018: dirge:undying_econ:back_cloth_R4C0
+    400020: dirge:undying_econ:bicep_L
+    400022: dirge:undying_econ:bicep_R
+    400024: dirge:undying_econ:clavicle_L
+    400026: dirge:undying_econ:clavicle_R
+    400028: dirge:undying_econ:elbow_L
+    400030: dirge:undying_econ:elbow_R
+    400032: dirge:undying_econ:elbowHelper_L
+    400034: dirge:undying_econ:elbowHelper_R
+    400036: dirge:undying_econ:fr_cloth_R0C0
+    400038: dirge:undying_econ:fr_cloth_R1C0
+    400040: dirge:undying_econ:fr_cloth_R2C0
+    400042: dirge:undying_econ:fr_cloth_R3C0
+    400044: dirge:undying_econ:head
+    400046: dirge:undying_econ:hip1_0
+    400048: dirge:undying_econ:Index_0_L
+    400050: dirge:undying_econ:Index_0_R
+    400052: dirge:undying_econ:Index_1_L
+    400054: dirge:undying_econ:Index_1_R
+    400056: dirge:undying_econ:Index_2_L
+    400058: dirge:undying_econ:Index_2_R
+    400060: dirge:undying_econ:jaw_01
+    400062: dirge:undying_econ:jaw_02
+    400064: dirge:undying_econ:knee_L
+    400066: dirge:undying_econ:knee_L_loc
+    400068: dirge:undying_econ:knee_R
+    400070: dirge:undying_econ:Mid_0_L
+    400072: dirge:undying_econ:Mid_0_R
+    400074: dirge:undying_econ:Mid_1_L
+    400076: dirge:undying_econ:Mid_1_R
+    400078: dirge:undying_econ:Mid_2_L
+    400080: dirge:undying_econ:Mid_2_R
+    400082: dirge:undying_econ:neck1
+    400084: dirge:undying_econ:root
+    400086: dirge:undying_econ:sh_pad0_0_L
+    400088: dirge:undying_econ:sh_pad0_1_L
+    400090: dirge:undying_econ:sh_pad1_0_R
+    400092: dirge:undying_econ:sh_pad1_1_R
+    400094: dirge:undying_econ:spine1
+    400096: dirge:undying_econ:spine2
+    400098: dirge:undying_econ:thigh_L
+    400100: dirge:undying_econ:thigh_R
+    400102: dirge:undying_econ:Thumb_0_L
+    400104: dirge:undying_econ:Thumb_0_R
+    400106: dirge:undying_econ:Thumb_1_L
+    400108: dirge:undying_econ:Thumb_1_R
+    400110: dirge:undying_econ:Thumb_2_L
+    400112: dirge:undying_econ:Thumb_2_R
+    400114: dirge:undying_econ:toeBase_L
+    400116: dirge:undying_econ:toeBase_L_loc
+    400118: dirge:undying_econ:toeBase_R
+    400120: dirge:undying_econ:undying_armor
+    400122: dirge:undying_econ:undying_armor_knee
+    400124: dirge:undying_econ:undying_armor_lod1
+    400126: dirge:undying_econ:undying_base
+    400128: dirge:undying_econ:undying_base_back_cloth
+    400130: dirge:undying_econ:undying_base_front_cloth
+    400132: dirge:undying_econ:undying_base_lod2
+    400134: dirge:undying_econ:undying_helmet
+    400136: dirge:undying_econ:wrist_L
+    400138: dirge:undying_econ:wrist_R
+    4300000: dirge:undying_econ:undying_base
+    4300002: dirge:undying_econ:undying_base_back_cloth
+    4300004: dirge:undying_econ:undying_base_front_cloth
+    4300006: dirge:undying_econ:undying_armor
+    4300008: dirge:undying_econ:undying_armor_knee
+    4300010: dirge:undying_econ:undying_armor_lod1
+    4300012: dirge:undying_econ:undying_helmet
+    7400000: Walk
+    7400002: Attack
+    7400004: Die
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: dirge:undying_econ:undying_armor
+    13700002: dirge:undying_econ:undying_armor_knee
+    13700004: dirge:undying_econ:undying_armor_lod1
+    13700006: dirge:undying_econ:undying_base
+    13700008: dirge:undying_econ:undying_base_back_cloth
+    13700010: dirge:undying_econ:undying_base_front_cloth
+    13700012: dirge:undying_econ:undying_helmet
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dirge:undying_econ:ankle_L_loc
+        weight: 1
+      - path: dirge:undying_econ:knee_L_loc
+        weight: 1
+      - path: dirge:undying_econ:root
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0/dirge:undying_econ:back_cloth_R2C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0/dirge:undying_econ:back_cloth_R2C0/dirge:undying_econ:back_cloth_R3C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0/dirge:undying_econ:back_cloth_R2C0/dirge:undying_econ:back_cloth_R3C0/dirge:undying_econ:back_cloth_R4C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0/dirge:undying_econ:fr_cloth_R1C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0/dirge:undying_econ:fr_cloth_R1C0/dirge:undying_econ:fr_cloth_R2C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0/dirge:undying_econ:fr_cloth_R1C0/dirge:undying_econ:fr_cloth_R2C0/dirge:undying_econ:fr_cloth_R3C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L/dirge:undying_econ:knee_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L/dirge:undying_econ:knee_L/dirge:undying_econ:ankle_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L/dirge:undying_econ:knee_L/dirge:undying_econ:ankle_L/dirge:undying_econ:toeBase_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R/dirge:joint1
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R/dirge:joint1/dirge:undying_econ:ankle_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R/dirge:joint1/dirge:undying_econ:ankle_R/dirge:undying_econ:toeBase_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:elbowHelper_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Index_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Index_0_L/dirge:undying_econ:Index_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Index_0_L/dirge:undying_econ:Index_1_L/dirge:undying_econ:Index_2_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Mid_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Mid_0_L/dirge:undying_econ:Mid_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Mid_0_L/dirge:undying_econ:Mid_1_L/dirge:undying_econ:Mid_2_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Thumb_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Thumb_0_L/dirge:undying_econ:Thumb_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Thumb_0_L/dirge:undying_econ:Thumb_1_L/dirge:undying_econ:Thumb_2_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:sh_pad0_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:sh_pad0_0_L/dirge:undying_econ:sh_pad0_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:elbowHelper_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Index_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Index_0_R/dirge:undying_econ:Index_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Index_0_R/dirge:undying_econ:Index_1_R/dirge:undying_econ:Index_2_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Mid_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Mid_0_R/dirge:undying_econ:Mid_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Mid_0_R/dirge:undying_econ:Mid_1_R/dirge:undying_econ:Mid_2_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Thumb_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Thumb_0_R/dirge:undying_econ:Thumb_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Thumb_0_R/dirge:undying_econ:Thumb_1_R/dirge:undying_econ:Thumb_2_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:sh_pad1_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:sh_pad1_0_R/dirge:undying_econ:sh_pad1_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1/dirge:undying_econ:head
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1/dirge:undying_econ:head/dirge:undying_econ:jaw_01
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1/dirge:undying_econ:head/dirge:undying_econ:jaw_01/dirge:undying_econ:jaw_02
+        weight: 1
+      - path: dirge:undying_econ:toeBase_L_loc
+        weight: 1
+      - path: dirge:undying_econ:undying_armor
+        weight: 1
+      - path: dirge:undying_econ:undying_armor_knee
+        weight: 1
+      - path: dirge:undying_econ:undying_armor_lod1
+        weight: 1
+      - path: dirge:undying_econ:undying_base
+        weight: 1
+      - path: dirge:undying_econ:undying_base_back_cloth
+        weight: 1
+      - path: dirge:undying_econ:undying_base_front_cloth
+        weight: 1
+      - path: dirge:undying_econ:undying_base_lod2
+        weight: 1
+      - path: dirge:undying_econ:undying_helmet
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dirge:undying_econ:ankle_L_loc
+        weight: 1
+      - path: dirge:undying_econ:knee_L_loc
+        weight: 1
+      - path: dirge:undying_econ:root
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0/dirge:undying_econ:back_cloth_R2C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0/dirge:undying_econ:back_cloth_R2C0/dirge:undying_econ:back_cloth_R3C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0/dirge:undying_econ:back_cloth_R2C0/dirge:undying_econ:back_cloth_R3C0/dirge:undying_econ:back_cloth_R4C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0/dirge:undying_econ:fr_cloth_R1C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0/dirge:undying_econ:fr_cloth_R1C0/dirge:undying_econ:fr_cloth_R2C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0/dirge:undying_econ:fr_cloth_R1C0/dirge:undying_econ:fr_cloth_R2C0/dirge:undying_econ:fr_cloth_R3C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L/dirge:undying_econ:knee_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L/dirge:undying_econ:knee_L/dirge:undying_econ:ankle_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L/dirge:undying_econ:knee_L/dirge:undying_econ:ankle_L/dirge:undying_econ:toeBase_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R/dirge:joint1
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R/dirge:joint1/dirge:undying_econ:ankle_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R/dirge:joint1/dirge:undying_econ:ankle_R/dirge:undying_econ:toeBase_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:elbowHelper_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Index_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Index_0_L/dirge:undying_econ:Index_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Index_0_L/dirge:undying_econ:Index_1_L/dirge:undying_econ:Index_2_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Mid_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Mid_0_L/dirge:undying_econ:Mid_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Mid_0_L/dirge:undying_econ:Mid_1_L/dirge:undying_econ:Mid_2_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Thumb_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Thumb_0_L/dirge:undying_econ:Thumb_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Thumb_0_L/dirge:undying_econ:Thumb_1_L/dirge:undying_econ:Thumb_2_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:sh_pad0_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:sh_pad0_0_L/dirge:undying_econ:sh_pad0_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:elbowHelper_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Index_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Index_0_R/dirge:undying_econ:Index_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Index_0_R/dirge:undying_econ:Index_1_R/dirge:undying_econ:Index_2_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Mid_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Mid_0_R/dirge:undying_econ:Mid_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Mid_0_R/dirge:undying_econ:Mid_1_R/dirge:undying_econ:Mid_2_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Thumb_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Thumb_0_R/dirge:undying_econ:Thumb_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Thumb_0_R/dirge:undying_econ:Thumb_1_R/dirge:undying_econ:Thumb_2_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:sh_pad1_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:sh_pad1_0_R/dirge:undying_econ:sh_pad1_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1/dirge:undying_econ:head
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1/dirge:undying_econ:head/dirge:undying_econ:jaw_01
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1/dirge:undying_econ:head/dirge:undying_econ:jaw_01/dirge:undying_econ:jaw_02
+        weight: 1
+      - path: dirge:undying_econ:toeBase_L_loc
+        weight: 1
+      - path: dirge:undying_econ:undying_armor
+        weight: 1
+      - path: dirge:undying_econ:undying_armor_knee
+        weight: 1
+      - path: dirge:undying_econ:undying_armor_lod1
+        weight: 1
+      - path: dirge:undying_econ:undying_base
+        weight: 1
+      - path: dirge:undying_econ:undying_base_back_cloth
+        weight: 1
+      - path: dirge:undying_econ:undying_base_front_cloth
+        weight: 1
+      - path: dirge:undying_econ:undying_base_lod2
+        weight: 1
+      - path: dirge:undying_econ:undying_helmet
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: dirge:undying_econ:ankle_L_loc
+        weight: 1
+      - path: dirge:undying_econ:knee_L_loc
+        weight: 1
+      - path: dirge:undying_econ:root
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0/dirge:undying_econ:back_cloth_R2C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0/dirge:undying_econ:back_cloth_R2C0/dirge:undying_econ:back_cloth_R3C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:back_cloth_R0C0/dirge:undying_econ:back_cloth_R1C0/dirge:undying_econ:back_cloth_R2C0/dirge:undying_econ:back_cloth_R3C0/dirge:undying_econ:back_cloth_R4C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0/dirge:undying_econ:fr_cloth_R1C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0/dirge:undying_econ:fr_cloth_R1C0/dirge:undying_econ:fr_cloth_R2C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:fr_cloth_R0C0/dirge:undying_econ:fr_cloth_R1C0/dirge:undying_econ:fr_cloth_R2C0/dirge:undying_econ:fr_cloth_R3C0
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L/dirge:undying_econ:knee_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L/dirge:undying_econ:knee_L/dirge:undying_econ:ankle_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_L/dirge:undying_econ:knee_L/dirge:undying_econ:ankle_L/dirge:undying_econ:toeBase_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R/dirge:joint1
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R/dirge:joint1/dirge:undying_econ:ankle_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:hip1_0/dirge:undying_econ:thigh_R/dirge:undying_econ:knee_R/dirge:joint1/dirge:undying_econ:ankle_R/dirge:undying_econ:toeBase_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:elbowHelper_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Index_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Index_0_L/dirge:undying_econ:Index_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Index_0_L/dirge:undying_econ:Index_1_L/dirge:undying_econ:Index_2_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Mid_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Mid_0_L/dirge:undying_econ:Mid_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Mid_0_L/dirge:undying_econ:Mid_1_L/dirge:undying_econ:Mid_2_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Thumb_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Thumb_0_L/dirge:undying_econ:Thumb_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:bicep_L/dirge:undying_econ:elbow_L/dirge:undying_econ:wrist_L/dirge:undying_econ:Thumb_0_L/dirge:undying_econ:Thumb_1_L/dirge:undying_econ:Thumb_2_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:sh_pad0_0_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_L/dirge:undying_econ:sh_pad0_0_L/dirge:undying_econ:sh_pad0_1_L
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:elbowHelper_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Index_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Index_0_R/dirge:undying_econ:Index_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Index_0_R/dirge:undying_econ:Index_1_R/dirge:undying_econ:Index_2_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Mid_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Mid_0_R/dirge:undying_econ:Mid_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Mid_0_R/dirge:undying_econ:Mid_1_R/dirge:undying_econ:Mid_2_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Thumb_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Thumb_0_R/dirge:undying_econ:Thumb_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:bicep_R/dirge:undying_econ:elbow_R/dirge:undying_econ:wrist_R/dirge:undying_econ:Thumb_0_R/dirge:undying_econ:Thumb_1_R/dirge:undying_econ:Thumb_2_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:sh_pad1_0_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:clavicle_R/dirge:undying_econ:sh_pad1_0_R/dirge:undying_econ:sh_pad1_1_R
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1/dirge:undying_econ:head
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1/dirge:undying_econ:head/dirge:undying_econ:jaw_01
+        weight: 1
+      - path: dirge:undying_econ:root/dirge:undying_econ:spine1/dirge:undying_econ:spine2/dirge:undying_econ:neck1/dirge:undying_econ:head/dirge:undying_econ:jaw_01/dirge:undying_econ:jaw_02
+        weight: 1
+      - path: dirge:undying_econ:toeBase_L_loc
+        weight: 1
+      - path: dirge:undying_econ:undying_armor
+        weight: 1
+      - path: dirge:undying_econ:undying_armor_knee
+        weight: 1
+      - path: dirge:undying_econ:undying_armor_lod1
+        weight: 1
+      - path: dirge:undying_econ:undying_base
+        weight: 1
+      - path: dirge:undying_econ:undying_base_back_cloth
+        weight: 1
+      - path: dirge:undying_econ:undying_base_front_cloth
+        weight: 1
+      - path: dirge:undying_econ:undying_base_lod2
+        weight: 1
+      - path: dirge:undying_econ:undying_helmet
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

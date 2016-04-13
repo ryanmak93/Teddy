@@ -1,0 +1,674 @@
+fileFormatVersion: 2
+guid: 2fb680c68036d1945a639bfa7b0645b2
+timeCreated: 1458887265
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ankle_L
+    100002: ankle_R
+    100004: B_flap_R0C0
+    100006: B_flap_R0C1
+    100008: B_flap_R1C0
+    100010: B_flap_R1C1
+    100012: B_flap_R2C0
+    100014: B_flap_R2C1
+    100016: bicep_L
+    100018: bicep_R
+    100020: clavicle_L
+    100022: clavicle_R
+    100024: cuff_L_R0C0
+    100026: cuff_L_R1C0
+    100028: cuff_L_R2C0
+    100030: cuff_L_R3C0
+    100032: cuff_L_R4C0
+    100034: cuff_L_R5C0
+    100036: cuff_L_R6C0
+    100038: cuff_L_R7C0
+    100040: elbow_L
+    100042: elbow_R
+    100044: HCuff_R0C0
+    100046: HCuff_R1C0
+    100048: HCuff_R2C0
+    100050: HCuff_R3C0
+    100052: HCuff_R4C0
+    100054: HCuff_R5C0
+    100056: Head_0
+    100058: Head_1
+    100060: Jaw
+    100062: knee_L
+    100064: knee_R
+    100066: //RootNode
+    100068: lifestealer
+    100070: mid_0_L
+    100072: mid_0_R
+    100074: mid_1_L
+    100076: mid_1_R
+    100078: ring_0_L
+    100080: ring_0_R
+    100082: ring_1_L
+    100084: ring_1_R
+    100086: Root_0
+    100088: Spine_0
+    100090: Spine_1
+    100092: Spine_2
+    100094: Spine_3
+    100096: thigh_L
+    100098: thigh_R
+    100100: thumb_0_L
+    100102: thumb_0_R
+    100104: thumb_1_L
+    100106: thumb_1_R
+    100108: toe_1__L
+    100110: toe_1__R
+    100112: toe_2__L
+    100114: toe_2__R
+    100116: toe_3__L
+    100118: toe_3__R
+    100120: toeBase_L
+    100122: toeBase_R
+    100124: wrist_L
+    100126: wrist_R
+    400000: ankle_L
+    400002: ankle_R
+    400004: B_flap_R0C0
+    400006: B_flap_R0C1
+    400008: B_flap_R1C0
+    400010: B_flap_R1C1
+    400012: B_flap_R2C0
+    400014: B_flap_R2C1
+    400016: bicep_L
+    400018: bicep_R
+    400020: clavicle_L
+    400022: clavicle_R
+    400024: cuff_L_R0C0
+    400026: cuff_L_R1C0
+    400028: cuff_L_R2C0
+    400030: cuff_L_R3C0
+    400032: cuff_L_R4C0
+    400034: cuff_L_R5C0
+    400036: cuff_L_R6C0
+    400038: cuff_L_R7C0
+    400040: elbow_L
+    400042: elbow_R
+    400044: HCuff_R0C0
+    400046: HCuff_R1C0
+    400048: HCuff_R2C0
+    400050: HCuff_R3C0
+    400052: HCuff_R4C0
+    400054: HCuff_R5C0
+    400056: Head_0
+    400058: Head_1
+    400060: Jaw
+    400062: knee_L
+    400064: knee_R
+    400066: //RootNode
+    400068: lifestealer
+    400070: mid_0_L
+    400072: mid_0_R
+    400074: mid_1_L
+    400076: mid_1_R
+    400078: ring_0_L
+    400080: ring_0_R
+    400082: ring_1_L
+    400084: ring_1_R
+    400086: Root_0
+    400088: Spine_0
+    400090: Spine_1
+    400092: Spine_2
+    400094: Spine_3
+    400096: thigh_L
+    400098: thigh_R
+    400100: thumb_0_L
+    400102: thumb_0_R
+    400104: thumb_1_L
+    400106: thumb_1_R
+    400108: toe_1__L
+    400110: toe_1__R
+    400112: toe_2__L
+    400114: toe_2__R
+    400116: toe_3__L
+    400118: toe_3__R
+    400120: toeBase_L
+    400122: toeBase_R
+    400124: wrist_L
+    400126: wrist_R
+    4300000: lifestealer
+    7400000: Walk
+    7400002: Attack
+    7400004: Die
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: lifestealer
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: lifestealer
+        weight: 1
+      - path: Root_0
+        weight: 1
+      - path: Root_0/B_flap_R0C0
+        weight: 1
+      - path: Root_0/B_flap_R0C0/B_flap_R1C0
+        weight: 1
+      - path: Root_0/B_flap_R0C0/B_flap_R1C0/B_flap_R2C0
+        weight: 1
+      - path: Root_0/B_flap_R0C1
+        weight: 1
+      - path: Root_0/B_flap_R0C1/B_flap_R1C1
+        weight: 1
+      - path: Root_0/B_flap_R0C1/B_flap_R1C1/B_flap_R2C1
+        weight: 1
+      - path: Root_0/Spine_0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0/cuff_L_R5C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0/cuff_L_R5C0/cuff_L_R6C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0/cuff_L_R5C0/cuff_L_R6C0/cuff_L_R7C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0/HCuff_R3C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0/HCuff_R3C0/HCuff_R4C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0/HCuff_R3C0/HCuff_R4C0/HCuff_R5C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/Head_0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/Head_0/Head_1/Jaw
+        weight: 1
+      - path: Root_0/thigh_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L/toe_1__L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L/toe_2__L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L/toe_3__L
+        weight: 1
+      - path: Root_0/thigh_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R/toe_1__R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R/toe_2__R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R/toe_3__R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: lifestealer
+        weight: 1
+      - path: Root_0
+        weight: 1
+      - path: Root_0/B_flap_R0C0
+        weight: 1
+      - path: Root_0/B_flap_R0C0/B_flap_R1C0
+        weight: 1
+      - path: Root_0/B_flap_R0C0/B_flap_R1C0/B_flap_R2C0
+        weight: 1
+      - path: Root_0/B_flap_R0C1
+        weight: 1
+      - path: Root_0/B_flap_R0C1/B_flap_R1C1
+        weight: 1
+      - path: Root_0/B_flap_R0C1/B_flap_R1C1/B_flap_R2C1
+        weight: 1
+      - path: Root_0/Spine_0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0/cuff_L_R5C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0/cuff_L_R5C0/cuff_L_R6C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0/cuff_L_R5C0/cuff_L_R6C0/cuff_L_R7C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0/HCuff_R3C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0/HCuff_R3C0/HCuff_R4C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0/HCuff_R3C0/HCuff_R4C0/HCuff_R5C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/Head_0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/Head_0/Head_1/Jaw
+        weight: 1
+      - path: Root_0/thigh_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L/toe_1__L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L/toe_2__L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L/toe_3__L
+        weight: 1
+      - path: Root_0/thigh_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R/toe_1__R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R/toe_2__R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R/toe_3__R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Take 001
+      firstFrame: 60
+      lastFrame: 85
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: lifestealer
+        weight: 1
+      - path: Root_0
+        weight: 1
+      - path: Root_0/B_flap_R0C0
+        weight: 1
+      - path: Root_0/B_flap_R0C0/B_flap_R1C0
+        weight: 1
+      - path: Root_0/B_flap_R0C0/B_flap_R1C0/B_flap_R2C0
+        weight: 1
+      - path: Root_0/B_flap_R0C1
+        weight: 1
+      - path: Root_0/B_flap_R0C1/B_flap_R1C1
+        weight: 1
+      - path: Root_0/B_flap_R0C1/B_flap_R1C1/B_flap_R2C1
+        weight: 1
+      - path: Root_0/Spine_0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0/cuff_L_R5C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0/cuff_L_R5C0/cuff_L_R6C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/cuff_L_R0C0/cuff_L_R1C0/cuff_L_R2C0/cuff_L_R3C0/cuff_L_R4C0/cuff_L_R5C0/cuff_L_R6C0/cuff_L_R7C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/mid_0_L/mid_1_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/ring_0_L/ring_1_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_L/bicep_L/elbow_L/wrist_L/thumb_0_L/thumb_1_L
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0/HCuff_R3C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0/HCuff_R3C0/HCuff_R4C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/HCuff_R0C0/HCuff_R1C0/HCuff_R2C0/HCuff_R3C0/HCuff_R4C0/HCuff_R5C0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/mid_0_R/mid_1_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/ring_0_R/ring_1_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/clavicle_R/bicep_R/elbow_R/wrist_R/thumb_0_R/thumb_1_R
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/Head_0
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/Head_0/Head_1
+        weight: 1
+      - path: Root_0/Spine_0/Spine_1/Spine_2/Spine_3/Head_0/Head_1/Jaw
+        weight: 1
+      - path: Root_0/thigh_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L/toe_1__L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L/toe_2__L
+        weight: 1
+      - path: Root_0/thigh_L/knee_L/ankle_L/toeBase_L/toe_3__L
+        weight: 1
+      - path: Root_0/thigh_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R/toe_1__R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R/toe_2__R
+        weight: 1
+      - path: Root_0/thigh_R/knee_R/ankle_R/toeBase_R/toe_3__R
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root_0
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

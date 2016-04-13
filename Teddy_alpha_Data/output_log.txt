@@ -1,0 +1,65 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.829 seconds
+Platform assembly: C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Ryan\Documents\GitHub\Teddy\Teddy_alpha_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Canvas') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 1.317890 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3effc -> priority: 1 
+  Thread -> id: 370d4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 14.298530 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 444.
+Total: 0.674573 ms (FindLiveObjects: 0.055048 ms CreateObjectMapping: 0.036854 ms MarkObjects: 0.331688 ms  DeleteObjects: 0.250515 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Score.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+IndexOutOfRangeException: Array index is out of range.
+  at HUD.randomline (UnityEngine.AudioClip[] sounds) [0x00000] in <filename unknown>:0 
+  at HUD.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.892164 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2624.
+Total: 2.881631 ms (FindLiveObjects: 0.271042 ms CreateObjectMapping: 0.181938 ms MarkObjects: 1.321156 ms  DeleteObjects: 1.106095 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.052966 ms
+
+Unloading 1030 unused Assets to reduce memory usage. Loaded Objects now: 306.
+Total: 8.306209 ms (FindLiveObjects: 0.106830 ms CreateObjectMapping: 0.079306 ms MarkObjects: 0.327023 ms  DeleteObjects: 7.792115 ms)
+
